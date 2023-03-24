@@ -1,2 +1,0 @@
-echo "This is the first line of the file 'file1.txt'" >>file1.txt
-
